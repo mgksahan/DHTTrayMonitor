@@ -1,0 +1,9 @@
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\bin\Debug\DHTTrayMonitor.exe.config
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\bin\Debug\DHTTrayMonitor.exe
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\bin\Debug\DHTTrayMonitor.pdb
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.csprojAssemblyReference.cache
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.Properties.Resources.resources
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.csproj.GenerateResource.cache
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.csproj.CoreCompileInputs.cache
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.exe
+C:\Users\mgksa\source\repos\DHTTrayMonitor\DHTTrayMonitor\obj\Debug\DHTTrayMonitor.pdb
